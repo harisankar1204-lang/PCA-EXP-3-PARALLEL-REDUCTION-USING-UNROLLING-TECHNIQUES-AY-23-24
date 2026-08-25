@@ -256,6 +256,7 @@ int main(int argc, char **argv)
 !./reduction
 
 ## OUTPUT:
+<img width="647" height="277" alt="image" src="https://github.com/user-attachments/assets/a18b0e98-46d0-43bb-b8be-4f39f8d3aad0" />
 
 
 ## RESULT:
